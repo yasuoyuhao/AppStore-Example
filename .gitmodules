@@ -1,0 +1,3 @@
+[submodule "PKCHelper"]
+	path = PKCHelper
+	url = git@github.com:yasuoyuhao/PKCHelper.git
